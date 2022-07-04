@@ -25,7 +25,7 @@ class AzureSpeechText: NSObject {
                   print("error \(error) happened")
                   speechConfig = nil
               }
-              speechConfig?.speechRecognitionLanguage = "en-US"
+
 
               let audioConfig = SPXAudioConfiguration()
 
