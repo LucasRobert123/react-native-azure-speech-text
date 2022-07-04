@@ -1,0 +1,25 @@
+{
+  "name": "react-native-azure-speech-text",
+  "version": "0.1.2",
+  "description": "React Native Azure Speech Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phithu/react-native-azure-speech-text"
+  },
+  "keywords": [
+    "react-native",
+    "speech-to-text",
+    "text-to-speech",
+    "azure-speech-text"
+  ],
+  "author": "Phi Thu",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/phithu/react-native-azure-speech-text"
+}
